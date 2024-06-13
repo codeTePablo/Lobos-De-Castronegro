@@ -17,4 +17,5 @@ public class Jugador {
     private boolean eliminado;
     private String rol;
     private String descripcion;
+
 }

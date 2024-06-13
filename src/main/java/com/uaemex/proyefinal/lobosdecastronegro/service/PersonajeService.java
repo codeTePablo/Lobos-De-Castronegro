@@ -2,7 +2,6 @@ package com.uaemex.proyefinal.lobosdecastronegro.service;
 
 import com.uaemex.proyefinal.lobosdecastronegro.exceptions.ToDoExceptions;
 import com.uaemex.proyefinal.lobosdecastronegro.mapper.PersonajeDTOtoPersonaje;
-import com.uaemex.proyefinal.lobosdecastronegro.persistence.entity.Jugador;
 import com.uaemex.proyefinal.lobosdecastronegro.persistence.entity.Personaje;
 import com.uaemex.proyefinal.lobosdecastronegro.persistence.repository.PersonajeRepository;
 import com.uaemex.proyefinal.lobosdecastronegro.service.dto.PersonajeDTO;
